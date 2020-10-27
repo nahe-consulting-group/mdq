@@ -1,10 +1,10 @@
 # -*- coding: utf-8 -*-
 # Part of Odoo. See LICENSE file for full copyright and licensing details.
 {
-    'name': 'update-currency-and-price',
+    'name': 'update currency and price',
     'version': '1.0',
     'category': 'Tools',
-    'summary': 'update-currency-and-price TO DO ',
+    'summary': 'Agregar accion automatizada model.update_currency_and_price() ',
     'depends': ['sale','product'],
     'data': [
         ],
